@@ -45,5 +45,4 @@ Não me considero alguém que domina tudo, mas sou o cara que, com uma boa docum
 ---
 
 ### 📫 Contato
-
-- **E-mail:** [daronfen@gmail.com](mailto:daronfen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-de-sousa-silva-4b63543b4/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daron_fen?utm_source=qr&stkn=MW1ieHV4NTRycXY4bQ==)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:daronfen@gmail.com) 
