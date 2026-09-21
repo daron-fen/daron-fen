@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, eu sou o Fernando (daron-fen) 👋
-
 🎓 **Sistemas de Informação (BSI)** — 4º Semestre  
 💼 **Estagiário de Suporte Técnico & SysAdmin** na *RR Empreendimentos*
 
@@ -36,11 +34,27 @@ Não me considero alguém que domina tudo, mas sou o cara que, com uma boa docum
 
 ### 🧰 Tecnologias & Ferramentas
 
-- **Sistemas Operacionais:** Linux (Debian Stable)
+- **Sistemas Operacionais:**
+
+  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)'
+  
 - **Infraestrutura & Virtualização:** SysAdmin, **Bash**, **Docker**, **KVM**
-- **Linguagens & Dev:** **JavaScript** (gosto muito)
-- **Em Aprendizado:** **Golang** (aos poucos), **Python** (aprendendo por necessidade) e **Lua** (contato breve)
-- **Ferramentas:** Git, VSCodium, Terminal Linux
+  
+- **Linguagens & Dev:**
+    * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) & ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) (prefiro JS + Node para scripting em detrimento do Python);
+    *  ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) 
+  
+- **Em Aprendizado:**
+    * ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (aos poucos);
+    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  (aprendendo por necessidade);
+    * ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  (contato breve);
+    * ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  (Aprendendo a usar suas ferramentas como Laboratório de testes)
+  
+- **Ferramentas:**
+    * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white);
+    * ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma);
+    * ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white);
+    * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ---
 
