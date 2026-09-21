@@ -29,7 +29,7 @@ Estudante do 4º semestre de Sistemas de Informação, muito satisfeito com meu 
 Não me considero alguém que domina tudo, mas sou o cara que, com uma boa documentação, tempo de pesquisa e café ☕, consegue se virar e aprender a solucionar problemas dando o melhor que posso. Compenso o tempo de experiência com vontade de aprender e crescer na área.
 
 - 🛠️ **Trajetória:** Atuo na **RR Empreendimentos** desde 4 de março de 2025 como estagiário. Passei a me destacar pela minha resolução de problemas por volta de janeiro de 2026.
-- 🐧 **Sistemas:** Uso **Debian Stable** no meu dia a dia.
+- 🐧 **Sistemas:** Uso **Omarchy** no meu dia a dia.
 - 🌐 **Freelas:** Faço trabalhos freelancers de desenvolvimento web simples.
 
 ---
