@@ -2,17 +2,6 @@
 
 <!--
 **daron-fen/daron-fen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 🎓 **Sistemas de Informação (BSI)** — 4º Semestre  
@@ -22,40 +11,34 @@ Here are some ideas to get you started:
 
 ### 🚀 Sobre mim
 
-Estudante do 4º semestre de Sistemas de Informação, muito satisfeito com meu curso e meu aprendizado.
+Estudante de Sistemas de Informação com foco em infraestrutura, automação de processos e desenvolvimento de software.
 
-Não me considero alguém que domina tudo, mas sou o cara que, com uma boa documentação, tempo de pesquisa e café ☕, consegue se virar e aprender a solucionar problemas dando o melhor que posso. Compenso o tempo de experiência com vontade de aprender e crescer na área.
+Sou movido pela resolução de problemas complexos. Tenho facilidade para aprender novas tecnologias de forma autodidata a partir de documentações técnicas, aplicando lógica e investigação para entregar soluções eficientes e seguras.
 
-- 🛠️ **Trajetória:** Atuo na **RR Empreendimentos** desde 4 de março de 2025 como estagiário. Passei a me destacar pela minha resolução de problemas por volta de janeiro de 2026.
-- 🐧 **Sistemas:** Uso **Omarchy** no meu dia a dia.
-- 🌐 **Freelas:** Faço trabalhos freelancers de desenvolvimento web simples.
+- 🛠️ **Experiência:** Atuo na **RR Empreendimentos** desde março de 2025, com foco em suporte avançado, gerenciamento de servidores e rotinas de SysAdmin.
+- 🐧 **Sistemas:** Usuário e entusiasta de Linux no ecossistema de trabalho e uso pessoal.
+- 🌐 **Projetos:** Desenvolvedor web freelancer focado em soluções ágeis e funcionais.
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
 - **Sistemas Operacionais:**
-
-  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)'
+  ![Linux](https://shields.io) ![Debian](https://shields.io) ![Omarchy](https://shields.io)
   
-- **Infraestrutura & Virtualização:** SysAdmin, **Bash**, **Docker**, **KVM**
+- **Infraestrutura & Virtualização:** SysAdmin, **Bash Scripting**, **Docker**, **KVM**, Redes de Computadores
   
-- **Linguagens & Dev:**
-    * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) & ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) (prefiro JS + Node para scripting em detrimento do Python);
-    *  ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) 
+- **Linguagens & Ecossistema Dev:**
+    * ![JavaScript](https://shields.io) & ![NodeJS](https://shields.io) (Foco principal para desenvolvimento e scripting)
+    * ![BashScript](https://shields.io) (Automação de rotinas)
   
-- **Em Aprendizado:**
-    * ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (aos poucos);
-    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  (aprendendo por necessidade);
-    * ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  (contato breve);
-    * ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  (Aprendendo a usar suas ferramentas como Laboratório de testes)
+- **Em Aprendizado & Laboratórios:**
+    * ![Golang](https://shields.io) / ![Python](https://shields.io) / ![Lua](https://shields.io)
+    * Segurança da Informação e testes de intrusão usando ferramentas do ![Kali](https://shields.io)
   
 - **Ferramentas:**
-    * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white);
-    * ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma);
-    * ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white);
-    * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-
+    * ![Git](https://shields.io) ![Vscode](https://shields.io) ![Figma](https://shields.io)
+  
 ---
 
 ### 📫 Contato
